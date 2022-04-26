@@ -1,4 +1,4 @@
-# unityteam11
+# Unityteam11
 Oyun ve Uygulama Akademisi bootcamp unity grup 11'in projesi
 
 # Takım İsmi
@@ -17,7 +17,7 @@ Rana Ceren Kalenderli: Team Member/Developer
 --Kalidas'ın Yolcuğulu--
 
 # Ürün Açıklaması
-
+Oyunumuz Kalidas'ın yolculuğunu takip edecek. Karakterimiz çeşitli levellarda karşılaştığı karakterlerle savaşarak güçlenecek ve ailesini kurtarmaya çalışacak. 
 
 # Ürün Özellikleri
 
@@ -27,4 +27,4 @@ Macera oyunlarını sevenler
 15 - 65 yaş arası kullanıcılar
 
 # Product Backlog URL
-[Trello Backlog](
+[Trello Backlog](https://trello.com/b/iENZEI9r/i%CC%87simsiz)
