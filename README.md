@@ -15,68 +15,30 @@ Rana Ceren Kalenderli: Team Member/Developer
 
 # Ürün İsmi
 
---The Journey of Kalidas--
+--Mighty Littles--
 
 # Ürün Açıklaması
-2.5D ve 3D kamera geçişleri ile desteklenmiş, Platformer,Aksiyon, Combat ve Rpg elementleri içeren
-canavarları öldürdükçe canavarlaşmaya başlayan bir karakteri yönettiğimiz evren ve oyun fikri.
 
-Kalidas 30’lu yaşlarına gelmiş, evrenin yozlaşmış halinden sıkılmış, küçük oğlu Virkar(Virkâr) ve eşi Maescea(Maesse)  ile birlikte bu küf tutmuş çevreden uzaklaşmak için  büyülü “ Sylvasill “ ormanına yerleşmişti.
+Mighty Littles, küçük gözüken ama çok güçlü insanları yönetip, bu küçük insanları birbiri ile savaştırdığınız çevrimiçi bir dövüş oyunudur.Süreniz bitene kadar diğer oyunculardan daha fazla bayrak toplamak için arkadaşlarınız ile akıl almaz bir kavgaya hazır olun!
 
-Küçük bir evde, güzel günler geçiriyordu.
 
-Ne yazık ki, bu güzel günler çok uzun sürmeyecekti.
+Mighty Littles
 
-Kalidas bir sabah uyandığında, evinde ne eşine ne de çocuklarına dair hiç bir iz yoktu.
-
-Çıldırmıştı.
-
-Eski zamanlardan kalan, üstü yüzlerce savaş çentiği ile dolu, parlak zırhını, pişmanlık ve öfke ile üstüne giydi.
-
-Olmuş olanlardan habersiz, savaş baltasını eline alıp, ailesini ondan ayıranı bulabilmek için bir yolculuğa çıktı.
-
-Önünde olan günlerin hepsini ailesini arayarak geçirecekti.
-
-Olmuş olanlar demişken : Kalidasın başka bir evrende yaşayan kadim büyücü “Mameletie” tarafından, sırf kendi bencil istekleri için lanetlendiğinden haberi yoktu.
-
-Mameletie her evren döngüsünde, kendi yaşamını uzatmak için başka yaşam formlarının hayatlarını ele geçirip onların değer verdiği varlıkları ellerinden alır ve bununla beslenirdi.
-
-Onların bu tükenmişliği ve delirmişliği onları kendi insaniyetinden soyutlar, kibir ve nefret dolu canavarlara dönüştürürdü.
-
-Ama bilmediği bir şey vardı, Kalidas farklıydı. 
-
-“”Kalidas Köleler ile Savaşçıların sınıf ayrımının tam ortasında kalmış bir ailede doğmuştu.
-
-Ailesi ona hep büyük savaştan önce bulundukları konumdan bahsetmiş esas kimliğini unutmamasını sağlamıştı.
-
-Ve hayatını eski kimliklerini ailesine geri kazandırmak için uğraşarak harcayacaktı.
-
-Hayatının yarısı kölelik diğer kalan yarısı ise savaşların ortasında geçmiş olan Kalidas, her zaman ailesinin koruyucusu olmuştu.
-
-Dövüş ve kılıç sanatlarında doğuştan yetenekliydi.
-
-Savaşlarda ki  başarısı, onu  Angekl krallığının en saygı duyulan generali haline getirmişti.
-
-Kalidas’ın gelişmiş savaş yetenekleri ve taktiklerinden, korkmaya başlayan diğer krallıklar.
-
-Kendi krallıklarını bu durumdan kurtarabilmek için bir plan yaptılar.
-
-Kalidas bir seferi yönetirken, gizli bir operasyon ile ailesini kaçırdılar.
-
-Böylesine büyülü bir evrende ailesine yapılacak o kadar çok şey vardı ki...
-
-Kalidas mecbur olarak yapılan anlaşmayı kabul etmek zorunda kaldı.
-
-Kalidas, sürgün edilecek ve ailesi güzel diyarlara gönderilecekti. 
-
-Güzel diyarlara gidebilmenin tek bir gerekliliği vardı, huzurlu bir ölüm...””
-
-Daha önce ailesini kaybetmiş olan Kalidas bir kere daha bu yenilgiye razı olmayacaktı.
-Ne kadar canavarlaşırsa canavarlaşsın,  asla içinde ki sevgiyi kaybetmeyecek ve ailesini elinden alanlardan intikamını alacaktı. 
+Yıllar yıllar önce,Feodalizm ile yönetilen topraklarda Lord Boru’nun hüküm sürdüğü Andarte köyünde halk birbiri ile iyi anlaşır, Lord Borunun adaletli yönetimi karşısında lordlarına saygı ile yaklaşırlardı.
+Topraktan üretilenleri önce halka yetecek kadar daha sonra krala vergi olarak gönderirlerdi.
+Bir gün Kral Androda zenginliğini arttırmak için başka topraklar ele geçirmek istedi ve çok verimli olduğu söylenen Ridarte bölgesine bir sefer düzenledi.
+Ne yazık ki Ridarte seferi çok büyük başarısızlık ile sonuçlandı.
+Geriye dönen kimse olmamıştı.
+Ta ki Andarte köyünün en güçlü insanı olarak bilinen Kirke elinde Androda’nın bayrağı ile dönene kadar.
+Büyük yenilgiden sonra asla vazgeçmemiş geceleri ormanlarda saklanarak sürekli olarak Ridarte’nin köylerine zarar vermişti.
+Ridarte’nin Kraliçesi bu zulüm ve vahşet dolu durumdan çıldırmış ve Androda’ya topraklarını birlikte işlemek için bir teklif götürmüştü.
+Kirke’nin akıl almaz yiğitliği ödüllendirilmek istensede çok ağır savaş yaraları olan Kirke geri döndükten sonra çok fazla dayanamamış bir kaç gün sonra huzura kavuşmuştu...
+Kirke’nin ölümünden sonra Androda bu mertlik dolu hikayeyi onurlandırmak için bir oyun geliştirdi.
+Androda’nın krallığında başlayan bu oyun yıllarca gelişti ve bütün dünyaya yayıldı.
+İki krallığın savaşı sonucu başlayan bu oyun bütün dünyaya barış getirmişti.
+Savaşın olduğu tek yer vardı, Kirke oyunu... 
 
 # Ürün Özellikleri
-
-•	Yetenek ağacı ile desteklenmiş şavaş mekaniği
 
 •	Oyunculara farklı oynayış stilleri sunmayı amaçlayan Level/Exp sistemi 
 
