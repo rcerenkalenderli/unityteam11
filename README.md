@@ -95,12 +95,13 @@ Oyunda karakterin gücünün gelişim mantığına dayanılarak bir skill tree y
 
 • **Sprint Notları:** User Storyler Trello Backlogımızda bulunuyor. 
 
-• **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 
+• **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** Yapacağımız oyunu değiştirdiğimiz için sıfırdan başlamamız gerekti. Bu durumda tüm projenin 2 sprint içinde bitirilmesi gerektiği göz önüne alınarak bu sprint içinde tamamlanması gereken puanın _60_ olduğuna karar verildi. 
 
-• **Proje Tamamlama mantığı:** Toplamda 100 puanlık backlog bulunmaktadır. 2,5 - 5 - 7,5 - 10 puanlık skala üzerinden belirlenmiştir.
+• **Proje Tamamlama mantığı:** Toplamda 100 puanlık backlog bulunmaktadır. 2,5 - 5 - 7,5 - 10 puanlık skala üzerinden belirlenmiştir. 
 
 • **Backlog Düzeni ve Story Seçimleri:** 
 
+3.Sprintin bir haftasının bugları temizleme ve oyunu test etmeye ayrılması planlandığı için oyunun kodlarının %80'inin 2.Sprint içinde yapıldı. Karakter tasarımı ve silah çizimleri de oyunu yaparken görsel bir örnek sağlayacağı için bu sprintte yapıldı. 
 
 • **Daily Scrum:**  [Daily Scrum Sprint 2]([Oyun ve Uygulama Akademisi Bootcamp Unity        Takım.docx](https://github.com/rcerenkalenderli/unityteam11/files/8749277/Oyun.ve.Uygulama.Akademisi.Bootcamp.Unity.Takim.docx))
 
@@ -108,10 +109,32 @@ Oyunda karakterin gücünün gelişim mantığına dayanılarak bir skill tree y
 
 • **Ürün Durumu:** Ekran görüntüleri arka plan tasarımı ve oyunun seviye tasarımı üzerinedir:
 
+![image](https://user-images.githubusercontent.com/103960513/169697288-f366693d-12fd-4453-83b1-5e428edccdc7.png)
+![image](https://user-images.githubusercontent.com/103960513/169697302-0ecb3c7c-0928-404d-98d8-58467def63cc.png)
+![image](https://user-images.githubusercontent.com/103960513/169697311-574c216a-f2c0-481e-899d-c31d061f569e.png)
+![image](https://user-images.githubusercontent.com/103960513/169697321-75d790a6-6d45-4d82-a245-a4f7862259d9.png)
+![image](https://user-images.githubusercontent.com/103960513/169697329-7285cfd8-1c34-4a64-b186-01b812b43121.png)
+
 • **Sprint Review:** 
 
-***Alınan Kararlar:*** 
+Kısıtlı zamandan dolayı en iyi şekilde yetiştirebileceğimiz bir oyun fikrine geçiş yapmaya karar verildi.
 
+Karakter ,sahne kırgusu,silah tasarımları tamamlandı.
+
+PickUp ve silah sistemi tamamlandı.
+
+1.sprint baz alınırsa çok daha iyi bir sprint geçirdiğimizi düşünüyoruz.
+
+***Alınan Kararlar:*** 
+ 
+ 3.Sprintte oyun deneyimine ağırlık vereceğiz. 
+ 
+ Sprint sonunda 1 haftayı oyunun sorunlarını ve görsel tasarımını kesinleştirmeye ayıracağız. 
 
 • **Sprint Retrospective:** 
 
+Oyun fikrini değiştirdikten sonra yapabileceğimize olan inancımızın artmasıyla daha verimli bir sprint geçirdik. 
+
+Herhangi bir tatilin araya girmemesi sayesinde iletişimde kopukluk yaşanmadı.
+
+Oyunun mekaniği hızlı bir şekilde gelişti ve herkes ortaya çıkan ürün için heyecanlanlı. 
