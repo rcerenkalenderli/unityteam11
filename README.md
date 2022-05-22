@@ -90,3 +90,28 @@ Oyunda karakterin gücünün gelişim mantığına dayanılarak bir skill tree y
 - Bir sonraki sprint planlamasının daha iyi yapılmasına karar verilmiştir. 
 - Bayram yüzünden istediğimiz kadar verimli bir sprint geçiremediğimize herkes hemfikir. 
 - Oyunun kodlama alanında hızımızı arttırmalıyız. 
+
+# Sprint 2
+
+• **Sprint Notları:** User Storyler Trello Backlogımızda bulunuyor. 
+
+• **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 
+
+• **Proje Tamamlama mantığı:** Toplamda 100 puanlık backlog bulunmaktadır. 2,5 - 5 - 7,5 - 10 puanlık skala üzerinden belirlenmiştir.
+
+• **Backlog Düzeni ve Story Seçimleri:** 
+
+
+• **Daily Scrum:**  [Daily Scrum Sprint 2]([Oyun ve Uygulama Akademisi Bootcamp Unity        Takım.docx](https://github.com/rcerenkalenderli/unityteam11/files/8749277/Oyun.ve.Uygulama.Akademisi.Bootcamp.Unity.Takim.docx))
+
+• **Sprint Board Update:** 
+
+• **Ürün Durumu:** Ekran görüntüleri arka plan tasarımı ve oyunun seviye tasarımı üzerinedir:
+
+• **Sprint Review:** 
+
+***Alınan Kararlar:*** 
+
+
+• **Sprint Retrospective:** 
+
