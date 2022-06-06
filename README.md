@@ -138,3 +138,40 @@ Oyun fikrini değiştirdikten sonra yapabileceğimize olan inancımızın artmas
 Herhangi bir tatilin araya girmemesi sayesinde iletişimde kopukluk yaşanmadı.
 
 Oyunun mekaniği hızlı bir şekilde gelişti ve herkes ortaya çıkan ürün için heyecanlanlı. 
+
+# Sprint 3
+
+• **Sprint Notları:** User Storyler Trello Backlogımızda bulunuyor. 
+
+• **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** Oyunumuzu 2.Sprintte değiştirdiğimiz için daha büyük parçalar şeklinde yapmaya karar vermiştik. Bu sprintte 40 puanlık görev yapıldı. 
+
+• **Proje Tamamlama mantığı:** Toplamda 100 puanlık backlog bulunmaktadır. 2,5 - 5 - 7,5 - 10 puanlık skala üzerinden belirlenmiştir. İlk sprintte projenin yaklaşık olarak 1/3'ünün yapılması uygun görülmüştür. 
+
+• **Backlog Düzeni ve Story Seçimleri:** Bize bir sonraki sprintlerde ne kadar ilerleyebileceğimizi göstermesi adına düşündüğümüz story planına göre bu sprint backlogunun içeriği belirlenmiştir. Story seçimleri puan odaklı olmaktan ziyade yol gösterici olması şeklinde seçilmiştir. 
+
+> Trelloda Sprint Boardumuz işin hangi alana ait olduğu ve kaç puan olduğuna göre etiketlenmiş ve yapacak kişilere atfedilmiştir. User Storyler Backlogun altında yer almaktadır. 
+
+• **Daily Scrum:** Çoğu zaman discord üzerinden sesli görüşme yapılmış olmakla beraber whatsapp ve discord üzerinden yazılı olarak günlük konuşma yapılmış, gelişmeleri üyeler birbirine aktarmıştır. [Daily Scrum Buluşmaları.docx]()
+
+• **Sprint Board Update:** 
+
+![image](https://user-images.githubusercontent.com/103960513/172212372-6c69bd94-38a2-4863-b60e-a36bf493a23b.png)
+![image](https://user-images.githubusercontent.com/103960513/172212414-dea27710-e685-438d-80d0-ea2cfcf8c005.png)
+
+• **Ürün Durumu:** 
+
+![image](https://user-images.githubusercontent.com/103960513/172212782-159253fc-7942-4364-9243-2d3b5cd5a5fd.png)
+
+• **Sprint Review:** 
+
+***Alınan Kararlar:*** 
+
+Sprintin başında herkesin daha da sıkı çalışmasına ve katkıda bulunmasına karar verdik. 
+Toplantıları daha sıkılaştırdık.
+
+• **Sprint Retrospective:** 
+
+- Zaman planlamamızı başarılı yaptığımıza inanıyoruz. 
+- Grup içinde güzel dinamikler sürdürüldüğü için keyifli bir sprint geçirildi. 
+- Sprint puanlamamız başarılı olduğumuza inanıyoruz.
+
