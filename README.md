@@ -160,7 +160,8 @@ Oyunun mekaniği hızlı bir şekilde gelişti ve herkes ortaya çıkan ürün i
 
 • **Ürün Durumu:** 
 
-![image](https://user-images.githubusercontent.com/103960513/172212782-159253fc-7942-4364-9243-2d3b5cd5a5fd.png)
+![unknown](https://user-images.githubusercontent.com/103960513/172214430-1ced2d14-fd74-42f7-b320-2dd259b228c4.png)
+
 
 • **Sprint Review:** 
 
