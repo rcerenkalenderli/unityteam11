@@ -177,3 +177,5 @@ Toplantıları daha sıkılaştırdık.
 - Grup içinde güzel dinamikler sürdürüldüğü için keyifli bir sprint geçirildi. 
 - Sprint puanlamamız başarılı olduğumuza inanıyoruz.
 
+# Ürünün Görsel Öğeleri 
+[visual art.docx](https://github.com/rcerenkalenderli/unityteam11/files/8846495/visual.art.docx)
