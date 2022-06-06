@@ -151,8 +151,8 @@ Oyunun mekaniği hızlı bir şekilde gelişti ve herkes ortaya çıkan ürün i
 
 > Trelloda Sprint Boardumuz işin hangi alana ait olduğu ve kaç puan olduğuna göre etiketlenmiş ve yapacak kişilere atfedilmiştir. User Storyler Backlogun altında yer almaktadır. 
 
-• **Daily Scrum:** Çoğu zaman discord üzerinden sesli görüşme yapılmış olmakla beraber whatsapp ve discord üzerinden yazılı olarak günlük konuşma yapılmış, gelişmeleri üyeler birbirine aktarmıştır. [Daily Scrum Buluşmaları.docx]([OYUN VE UYGULAMA AKADEMİSİ 3. sprint daily scrums.docx](https://github.com/rcerenkalenderli/unityteam11/files/8846428/OYUN.VE.UYGULAMA.AKADEMISI.3.sprint.daily.scrums.docx)
-)
+• **Daily Scrum:** Çoğu zaman discord üzerinden sesli görüşme yapılmış olmakla beraber whatsapp ve discord üzerinden yazılı olarak günlük konuşma yapılmış, gelişmeleri üyeler birbirine aktarmıştır. [Daily Scrum Buluşmaları.docx](https://github.com/rcerenkalenderli/unityteam11/files/8846428/OYUN.VE.UYGULAMA.AKADEMISI.3.sprint.daily.scrums.docx)
+
 
 • **Sprint Board Update:** 
 
